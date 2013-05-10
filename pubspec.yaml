@@ -1,0 +1,8 @@
+name: dart_issue_10573
+version: 0.1.0
+author: Sean Eagan <seaneagan1@gmail.com>
+description: test for http://dartbug.com/10573
+homepage: http://www.github.com/seaneagan/dart_issue_10573
+dev_dependencies:
+  unittest: any
+  http: any
